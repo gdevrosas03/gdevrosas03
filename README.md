@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gdevrosas03
 - 👀 I’m interested in learning how to code to create games.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently completing freecodecamp's software engineer certificate.
 - 💞️ I’m looking to collaborate on new games with other beginners.
 
 <!---
